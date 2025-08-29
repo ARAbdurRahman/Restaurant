@@ -402,7 +402,7 @@ nav {
   color: grey;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   .centre .resmen {
     display: none;
     flex-direction: column;
